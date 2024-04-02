@@ -4,6 +4,12 @@ form {
     align-items: center;
 }
 
+header {
+    background-color: darkred;
+    color: white;
+}
+
+
 label {
     margin: 10px 0;
 }
