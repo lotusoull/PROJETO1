@@ -40,3 +40,13 @@ nav {
     background-color: darkred;
     padding: 5px;
 }
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: darkred;
+    text-decoration: underline;
+    cursor: crosshair;
