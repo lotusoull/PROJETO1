@@ -1,7 +1,8 @@
-form {
+form{
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: Arial, sans-serif;
 }
 
 header {
@@ -15,12 +16,10 @@ label {
     margin: 10px 0;
 }
 
-input,
-textarea {
+input, textarea{
     margin: 5px 0;
     padding: 5px;
-    width: 500px;
-
+    width: 300px;
 }
 
 button {
@@ -50,3 +49,4 @@ nav a:hover {
     color: darkred;
     text-decoration: underline;
     cursor: crosshair;
+}
