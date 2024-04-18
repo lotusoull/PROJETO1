@@ -105,6 +105,6 @@ footer {
 
 }
 
-container figure:hover:: figcaption {
+container figure:hover::figcaption {
     bottom: 0;
 }
